@@ -1,7 +1,6 @@
 mysql-connector-python
-pyyaml==3.13
+pyyaml
 elastic-apm[flask]
 flask
 cryptography
 gunicorn
-requests==2.6.0
